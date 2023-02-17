@@ -1,3 +1,5 @@
+#include <stdlib.h>
+#include<time.h>
 /**
  * main - Prints the last digit of a randomly generated number
  * as well as whether it is greater than 5, less than 6, or 8.
